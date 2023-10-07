@@ -1,0 +1,13 @@
+C:\Users\Henrique\Downloads\Minecraft-Autoclicker-main\GithubClicker\GithubClicker\obj\Release\GithubClicker.csproj.AssemblyReference.cache
+C:\Users\Henrique\Downloads\Minecraft-Autoclicker-main\GithubClicker\GithubClicker\obj\Release\GithubClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Henrique\Downloads\Minecraft-Autoclicker-main\GithubClicker\GithubClicker\obj\Release\GithubClicker.MainForm.resources
+C:\Users\Henrique\Downloads\Minecraft-Autoclicker-main\GithubClicker\GithubClicker\obj\Release\GithubClicker.Properties.Resources.resources
+C:\Users\Henrique\Downloads\Minecraft-Autoclicker-main\GithubClicker\GithubClicker\obj\Release\GithubClicker.csproj.GenerateResource.cache
+C:\Users\Henrique\Downloads\Minecraft-Autoclicker-main\GithubClicker\GithubClicker\obj\Release\GithubClicker.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\GitHub\Minecraft-Autoclicker-main\GithubClicker\GithubClicker\obj\Release\GithubClicker.csproj.AssemblyReference.cache
+C:\Users\Henrique\Documents\GitHub\Minecraft-Autoclicker-main\GithubClicker\GithubClicker\obj\Release\GithubClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Henrique\Documents\GitHub\Minecraft-Autoclicker-main\GithubClicker\GithubClicker\obj\Release\GithubClicker.Form1.resources
+C:\Users\Henrique\Documents\GitHub\Minecraft-Autoclicker-main\GithubClicker\GithubClicker\obj\Release\GithubClicker.MainForm.resources
+C:\Users\Henrique\Documents\GitHub\Minecraft-Autoclicker-main\GithubClicker\GithubClicker\obj\Release\GithubClicker.Properties.Resources.resources
+C:\Users\Henrique\Documents\GitHub\Minecraft-Autoclicker-main\GithubClicker\GithubClicker\obj\Release\GithubClicker.csproj.GenerateResource.cache
+C:\Users\Henrique\Documents\GitHub\Minecraft-Autoclicker-main\GithubClicker\GithubClicker\obj\Release\GithubClicker.csproj.CoreCompileInputs.cache
